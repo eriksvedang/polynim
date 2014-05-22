@@ -1,35 +1,14 @@
 # polynim
 
-FIXME: description
-
-## Installation
-
-Download from http://example.com/FIXME.
-
-## Usage
-
-FIXME: explanation
-
-    $ java -jar polynim-0.1.0-standalone.jar [args]
-
-## Options
-
-FIXME: listing of options this app accepts.
+Polygon animations for Quil (Processing for Clojure).
 
 ## Examples
 
-...
+See core.clj
 
-### Bugs
-
-...
-
-### Any Other Sections
-### That You Think
-### Might be Useful
 
 ## License
 
-Copyright © 2014 FIXME
+Copyright © 2014 Erik Svedäng
 
 Distributed under the Eclipse Public License, the same as Clojure.
