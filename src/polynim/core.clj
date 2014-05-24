@@ -34,8 +34,7 @@
   (stroke-weight 3)
   (doall (map draw-anim @data))
   (no-stroke)
-  ;(draw-fps)
-  )
+  #_(draw-fps))
 
 (defn -main [& args]
   (sketch
